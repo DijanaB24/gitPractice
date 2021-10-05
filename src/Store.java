@@ -4,6 +4,10 @@ public class Store {
 
         System.out.println("Store class has been made successfully");
 
+        //updating class first time
+
+        //successfully again ;)
+
 
     }
 }
